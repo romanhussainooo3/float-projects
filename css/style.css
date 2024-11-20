@@ -1,0 +1,180 @@
+*{
+    padding: 0px;
+    justify-self: 0px;
+}
+body{
+    font-family: sans-serif;
+    font-size: 14px;
+    line-height: 24px;
+}
+h1,h2,h3,h4,h5,h6{
+    font-family: sans-serif;
+}
+img{
+    max-width: 100%;
+    height: auto;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: none;
+}
+.container{
+    width:1140px;
+    margin: 10px 110px ;
+    
+}
+.row{
+    width: 100%;
+    float: left;
+    padding: 0px 0px 8px 0px;
+}
+.col6{
+    width: 50%;
+    float: left;
+}
+.col6 img{
+    width: 24%;
+    
+}
+.headder{
+    border-bottom: 2px solid rgb(174, 167, 167);
+    float: left;
+}
+.headder .menu{
+    display: block;
+    text-align: right;
+    margin: 0px 0px 0px 40px;
+}
+.menu li{
+    list-style: none;
+    display: inline-block;
+    padding: 10px;
+}
+.menu li a{
+    font-size: 14px;
+    font-weight: 400;
+    
+}
+.menu li a:hover{
+    cursor: pointer;
+    border-bottom: 2px solid rgb(50, 127, 235);
+    color: rgb(39, 102, 227);
+}
+.focus{
+    width: 100%;
+    float: left;
+}
+.col12{
+    width: 100%;
+    float: left;
+    text-align: center;
+}
+.col12 h1{
+    font-size: 50px;
+    line-height: 1.2em;
+    font-weight: 600;
+    margin: 40px 0px 0px 0px;
+}
+.col12 h1 span{
+    color: rgb(75, 125, 234);
+}
+.col12 p{
+    display: block;
+    font-size: 15px;
+   
+}
+.col12 img{
+    width: 70%;
+    padding: 40px 0px 0px 40px;
+}
+.login{
+    width: 100%;
+    float: left;
+}
+.col6{
+    width: 50%;
+    float: left;
+}
+.form{
+    width: 100%;
+    float: left;
+    text-align: right;
+    padding: 0px 10px 0px 0xp;
+}
+.form h1{
+    width: 100%;
+    font-size: 47px;
+    line-height: 1.2em;
+    color: rgb(210, 72, 54);
+    margin: 10px 0px 0px 0px;
+}
+.form p{
+    display: block;
+    width: 100%;
+    font-size: 15px;
+    margin: 0px;
+}
+.formin{
+    width: 100%;
+    float: left;
+    margin: 0px 0px 0px 20px;
+}
+.formin h1{
+    width: 100%;
+    font-size: 47px;
+    line-height: 1.2em;
+    margin: 10px 0px 3px 0px;
+}
+.banner{
+    width: 80%;
+    float: left;
+    margin: 40px 170px;
+}
+.col4{
+    width: 33.33%;
+    float: left;
+}
+.formbox{
+    width: 100%;
+    width: 290px;
+    height: 320px;
+}
+.formbox img{
+    width: 70%;
+    height: 170px;
+    margin: 10px 0px 0px 39px;
+}
+.formbox h4{
+    width: 100%;
+    font-size: 16px;
+    margin: 0px 0px 5px 36px;
+}
+.formbox p{
+    width: 100%;
+    font-size: 13px;
+    margin: 0px 0px 40px 36px;
+}
+.bg1{
+    background: #fdebed;
+}
+.bg2{
+    background: #ebf9f4;
+}
+.bg3{
+    background: #fff7e8;
+}
+.fotter{
+    width: 100%;
+    float: left;
+    background-color: rgb(56, 130, 214);
+}
+.inerfotter p{
+    font-size: 16px;
+    color: rgb(86, 173, 231);
+}
+.inerfotter a{
+    font-size: 18px;
+    color: white;
+}
